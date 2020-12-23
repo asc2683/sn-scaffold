@@ -56,3 +56,6 @@ Service Portal Scaffold should be used to scaffold a new service portal and shou
 ***
 ### Contribution
 Contribution for templates, feedbacks, features, enhancements, testing, and bug fixes are welcomed. Contribution guidelines... (WIP)
+***
+### Note
+This is a personal open-source project and is neither endorsed nor supported by any organizations or institutions.
