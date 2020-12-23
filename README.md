@@ -1,5 +1,4 @@
 # Service Portal Scaffolding
-
 Quickly scaffold service portal with pre-defined widget and style templates using VS Code ServiceNow extension.
 
 ![](sp-scaffold.gif)
@@ -12,7 +11,6 @@ This instruction makes certain assumptions about your local setup
 - [npm](https://www.npmjs.com/get-npm) installed (>6.7.0)
 - [VS Code](https://code.visualstudio.com/docs/setup/setup-overview) installed
 - [ServiceNow Extension for VS Code](https://docs.servicenow.com/bundle/newyork-application-development/page/build/applications/concept/vs-code.html) installed
-
 ***
 ### 2. Service Portal Scaffold Installation
 Follow these steps to install Service Portal Scaffold locally
@@ -50,7 +48,7 @@ Service Portal Scaffold should be used to scaffold a new service portal and shou
 ### 6. Sync with Instance
 - After the scaffolding has run successfully, sync your workspace with the instance using VS Code ServiceNow Extension
 - Sync by clicking the `Sync Current Project icon` on the status bar in VS Code
-- You can also press `CMD + OPT+ S` on MacOS or `CTRL + ALT + S`​​ on Windows to sync the project
+- You can also press `CMD+OPT+S` on MacOS or `CTRL+ALT+S`​​ on Windows to sync the project
 - More information on how to synchronize current project between [VS Code and a ServiceNow instance](https://docs.servicenow.com/bundle/paris-application-development/page/build/applications/task/synchronize-files.html)
 
 ***
