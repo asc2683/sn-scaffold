@@ -2,21 +2,12 @@
 Quickly scaffold service portal with pre-defined widget and style templates using VS Code ServiceNow extension.
 
 ## Setup
-> __[Setup and Installation Guide](https://asc2683.github.io/sn-scaffold-doc/)__
+> __[Setup and Installation Guide](https://asc2683.github.io/sn-scaffold-doc/docs/setup)__
 
 ***
-
 ![](sp-scaffold.gif)
 
-
-
-
-
-
-
-
-### Contribution
-Contribution for templates, feedbacks, features, enhancements, testing, and bug fixes are welcomed. Contribution guidelines... (WIP)
+## Contribution
+Contribution for templates, enhancements, and bug fixes are welcomed. 
 ***
-### Note
-This is a personal open-source project and is neither endorsed nor supported by any organizations or institutions
+Note: This is a personal open-source project and is neither endorsed nor supported by any organizations or institutions.
