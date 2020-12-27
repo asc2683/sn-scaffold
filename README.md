@@ -1,4 +1,4 @@
-# Service Portal Scaffolding
+# Service Portal Scaffold
 Quickly scaffold service portal with pre-defined widget and style templates using VS Code ServiceNow extension.
 
 ## Setup
@@ -8,6 +8,10 @@ Quickly scaffold service portal with pre-defined widget and style templates usin
 ![](sp-scaffold.gif)
 
 ## Contribution
-Contribution for templates, enhancements, and bug fixes are welcomed. 
+Contribution for templates, enhancements, and bug fixes are welcomed.
+
+## License
+Service Portal Scaffold is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
 ***
-Note: This is a personal open-source project and is neither endorsed nor supported by any organizations or institutions.
+Note: Service Portal Scaffold is released as an open source and is neither endorsed nor supported by any organizations or institutions.
